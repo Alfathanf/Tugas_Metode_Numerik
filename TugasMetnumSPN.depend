@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759849305 source:d:\kuliah\kuliah smt 5\metode numerik\tugasmetnumspn\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
